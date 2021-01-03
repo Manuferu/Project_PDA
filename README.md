@@ -25,11 +25,16 @@ Once the dataset is generated, a prediction model has been created using sklearn
 
 ## Information within the folder:
 
-house_price.ipynb : Jupyter notebook file with all the information
-EDA57.20201230T121257.csv : School information from CSO (1)
-HPA02.20210101T190157.csv : Property price from CSO (1)
-IIA01.20201230T121251.csv : Gross income from CSO (1)
-MUM01.20201230T121228.csv : unemployment information from CSO (1)
+-house_price.ipynb : Jupyter notebook file with all the information
+
+-EDA57.20201230T121257.csv : School information from CSO (1)
+
+-HPA02.20210101T190157.csv : Property price from CSO (1)
+
+-IIA01.20201230T121251.csv : Gross income from CSO (1)
+
+-MUM01.20201230T121228.csv : unemployment information from CSO (1)
+
 
 ### Statement
 
@@ -37,8 +42,13 @@ This is an exercise for an specific subject. Even though it uses real data, most
 
 ## References
 (1) Central Statistics Office : (https://www.cso.ie/en/index.html)
+
 (2) Limerick.ie : https://www.limerick.ie/sites/default/files/media/documents/2018-07/Economic%20Profiling%20Report%20for%20Limerick%20City%20and%20County.pdf
+
 (3) Limerick.ie (Population Growth) : https://www.limerick.ie/business/growing-limerick/facts-and-figures/limericks-recent-economic-growth
+
 (4) Towards data Science : (Linear regression) https://towardsdatascience.com/linear-regression-in-6-lines-of-python-5e1d0cd05b8d
+
 (5) Limerick.ie (Unemployement rate) https://www.limerick.ie/business/growing-limerick/facts-and-figures/limericks-recent-economic-growth#:~:text=The%20CSO's%20Labour%20Force%20Survey,of%205.7%25%20in%20Q1%202018.
+
 (6) Limerick.ie (investment): https://www.limerick.ie/business/growing-limerick/facts-and-figures/limericks-recent-economic-growth#:~:text=The%20CSO's%20Labour%20Force%20Survey,of%205.7%25%20in%20Q1%20
